@@ -1,0 +1,150 @@
+
+.navbar .nav-item a{
+    color: black;
+    font-weight: bolder;
+}
+.sign-color{
+    padding: 1px 10px 10px 20px;
+    display: flex;
+    font-size: 13px;
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+    
+}
+.red-line{
+    position: absolute;
+width: 188px;
+height: 24px;
+top: 178px;
+font-size: 16px;
+line-height: 24px;
+color: #FD511A;
+}
+
+.section-one{
+    width: 100%px;
+    height: 576px;
+    background: #F0FFF0;
+}
+.large-font{
+    position: absolute;
+    top: 212px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 70px;
+    color: #000000;
+}
+.color-change{
+    color: #21B573 ;
+}
+.small-font{
+    position: absolute;
+    top: 371px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 30px;
+    color: #6C6B6B;
+}
+.fluid{
+    position: absolute;
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.buy-now-button{
+    text-decoration: none;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    margin: 20px 0;
+    background: #21B573;
+    border-radius: 33px;
+    font-size: 16px;
+}
+.side{
+    margin: 40px;
+}
+p{
+    color:#6C6B6B;
+}
+.icon{
+    width: 100px;
+    padding: 10px;
+    margin: 50px 10px 10px 10px;
+}
+.card:hover{
+    border:270px;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+    
+.shadow-box{
+    height: 270px;
+    background-color: white;
+    box-shadow : 5px 5px 30px lightgrey;
+    border-radius: 10px;
+}
+h3{
+    color: #413960;
+    font-weight: 500;
+}
+.box{
+    background-color: #F8FFFB;
+    height: 270px;
+    border-radius: 10px;
+}
+.margin-size{
+    margin-top: 80px;
+}
+.online{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.card-img-top{
+    padding: 20px;
+}
+.icons-course{
+    width: 15px;
+}
+.start-p{
+    margin: 15px 45px 15px 5px;
+    font-size: 14px;
+}
+
+.lorem{
+    width: 550px;
+    margin-left: 50px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.test-img{
+    height: 90px;
+    width: 90px;
+    margin-top: 25px;
+}
+.last-part{
+    background-color: black;
+    list-style: none;
+    color: white;
+    padding: 10px;
+    margin-top: 90px;
+}
+ul{
+    list-style-type: none;
+}
+.last-col{
+    font-size: 18px;
+    font-weight: 700;
+}
+.lorem-two{
+     background-color: black;
+    list-style: none;
+    color: white;
+}
